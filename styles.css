@@ -86,15 +86,6 @@ button:hover {
   background-color: #2980b9; /* Darker blue */
 }
 
-/* Profile Picture */
-.profile-pic {
-  width: 150px;
-  height: auto;
-  border-radius: 50%;
-  margin-top: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-}
-
 /* Hobbies Image */
 .hobbies-pic {
   width: 100%;
